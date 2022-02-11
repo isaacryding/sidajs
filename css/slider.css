@@ -3,8 +3,10 @@ body {
 }
 
 h1 {
+    padding-top: 42.0px;
     color:maroon;
     font-weight:bold;
+    font-size: 42.0px;
 }
 
 .text {
